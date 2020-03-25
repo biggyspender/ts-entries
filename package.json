@@ -3,6 +3,7 @@
   "version": "0.0.0-development",
   "description": "",
   "keywords": [],
+  "sideEffects": false,
   "main": "dist/ts-entries.umd.js",
   "module": "dist/ts-entries.es5.js",
   "typings": "dist/types/ts-entries.d.ts",
